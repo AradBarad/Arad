@@ -5,7 +5,7 @@
 
 https://discord.com/users/511624732656009226
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/511624732656009226)](https://discord.com/users/511624732656009226)
+[![Discord Presence](https://discord.com/users/511624732656009226)
 
 <!---
 AradDev1/AradDev1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
