@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @Arad
-- 👨‍💻 I’m learning lua,js
-- 👾 I’m html,css developer
